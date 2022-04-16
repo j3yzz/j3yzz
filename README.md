@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi I'm Amir Reza 👋
+- I'm interested in Back-end/DevOPS
+- I'm currently working with PHP and Laravel and Learning Go!
+
+![Amirrezakhmdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirrezakhmd&show_icons=true&theme=onedark)
+
 
 <!--
 **amirrezakhmd/amirrezakhmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
