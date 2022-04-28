@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrezakhmd&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Cantact with me!
+### Contact with me!
 [<img align="left" alt="amirrezakhmd | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/twitter.svg" />][twitter]
 [<img align="left" alt="amirrezakhmd | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="amirrezakhmd | Gmail" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/gmail.svg" />][gmail]
