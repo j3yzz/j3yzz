@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=j3yzz)
+
 ## Hi I'm Amir Reza 👋
 - I'm interested in Back-end/DevOPS
 - I'm currently working with PHP and Laravel and Learning Go!
