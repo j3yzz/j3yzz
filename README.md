@@ -4,13 +4,14 @@
 - I'm interested in Back-end/DevOPS
 - I'm currently working with PHP and Laravel and Learning Go!
 
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,symfony,go,mysql,redis&perline=6)](https://skillicons.dev)
+
 <!-- ![j3yzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=j3yzz&show_icons=true&theme=onedark) -->
 
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j3yzz&theme=github_dark" alt="jam-hejrati" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j3yzz&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 ### Contact with me!
