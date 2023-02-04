@@ -5,7 +5,7 @@
 - I'm currently working with PHP and Laravel and Learning Go!
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,symfony,go,mysql,redis&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,symfony,go,mysql,redis&perline=12)](https://skillicons.dev)
 
 <!-- ![j3yzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=j3yzz&show_icons=true&theme=onedark) -->
 
