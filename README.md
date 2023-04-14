@@ -18,7 +18,7 @@ I'm Amirreza Kheradmand, Back-end Developer from Tehran, Iran.
   <a href="mailto:amir.rezakheradmand.2017@gmail.com" target="_blank">
     <img alt="Mail" src="https://img.shields.io/badge/mail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/j3yzz" target="_blank">
+  <a href="https://twitter.com/_j3yz" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_j3yz/" target="_blank">
