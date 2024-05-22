@@ -1,14 +1,29 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-I'm Amirreza Kheradmand, Back-end Developer from Tehran, Iran.
-
-- 🏦  I am currently working @ [FilimoSchool](https://filimo.school)
-- 💻  I use daily **.php**, **.sql**, **.go**
-- 📖  I am currently reading [Mastering GO](https://www.amazon.com/Mastering-Go-professional-utilities-concurrent/dp/1801079315)
-- 🤔  My hobbies are watching movies and coffee :)
+a simple software engineer.
 
 ```yaml
-- work: "salam"
+work:
+  current: "dataak"
+  previous:
+    - "filimo school"
+    - "witel"
+
+identities:
+  telegram: "@kevmand"
+  twitter: "@kevmandd"
+  email: "khrdmnd@pm.me"
+
+programming:
+  - "php"
+  - "go"
+
+interests:
+  - "software engineering"
+  - "data engineering"
+  - "sre/devops"
+  - "network programming"
+  - "distributed systems"
 ```
 
 
